@@ -21,7 +21,8 @@ keywords: 'software, lesson, The Carpentries, FAIR4RS' # FIXME
 
 # Life cycle stage of the lesson
 # possible values: pre-alpha, alpha, beta, stable
-life_cycle: 'pre-alpha' # FIXME
+# (the default, pre-alpha, is the appropriate for brand new lessons)
+life_cycle: 'pre-alpha'
 
 # License of the lesson
 license: 'CC-BY 4.0'
@@ -36,7 +37,7 @@ branch: 'main'
 contact: 'rse@sheffield.ac.uk' # FIXME
 
 # Custom URL if you are deploying to a URL that is not the default
-# github pages io domain
+# github pages domain
 # url:
 
 # Navigation ------------------------------------------------
