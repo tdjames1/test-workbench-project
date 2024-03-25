@@ -11,7 +11,7 @@ Copyright (c) The Carpentries and is made available under the
 [Creative Commons
 Attribution](https://creativecommons.org/licenses/by/4.0/) licence.
 [Changes have been
-made](https://github.com/tdjames1/fair4rs-lesson-setup) to adapt the
+made](https://github.com/RSE-Sheffield/fair4rs-lesson-setup) to adapt the
 template to the specific context of the University of Sheffield's FAIR
 for Research Software training programme.
 
